@@ -1,47 +1,47 @@
 # BestPairingWhatsApp
 
-**BestPairingWhatsApp** adalah script sederhana yang dirancang untuk mengirimkan pairing request WhatsApp secara cepat dan tanpa jeda.
+**BestPairingWhatsApp** is a simple script designed to send WhatsApp pairing requests quickly and without delay.
 
 ---
 
-## Fitur
-- **No Delay**: Kirim pairing request dengan cepat tanpa jeda.
-- **User-Friendly**: Mudah digunakan dengan instruksi sederhana.
+## Features
+- **No Delay**: Send pairing requests instantly without any delay.
+- **User-Friendly**: Easy to use with straightforward instructions.
 
 ---
 
-## Persyaratan
-- **Termux** atau terminal lain yang mendukung `npm`.
-- Koneksi internet aktif.
+## Requirements
+- **Termux** or any terminal supporting `npm`.
+- Active internet connection.
 
 ---
 
-## Instalasi & Penggunaan
+## Installation & Usage
 
-1. Clone repository ini:
+1. Clone this repository:
    ```bash
    git clone https://github.com/9fdxh42-koq/BestPairingWhatsApp
 
-2. Masuk ke folder:
+2. Navigate to the folder:
 
 cd BestPairingWhatsapp
 
 
-3. Instal npm (jika belum terinstal):
+3. Install npm (if not installed):
 
 pkg install npm
 
 
-4. Jalankan script:
+4. Run the script:
 
 npm start
 
 
-5. Ikuti instruksi berikut:
+5. Follow these instructions:
 
-Masukkan nomor target (format: 62xxxxxxx).
+Enter the target number (format: 62xxxxxxx).
 
-Masukkan jumlah pairing request yang ingin dikirimkan (1-1000).
+Enter the number of pairing requests to be sent (1-1000).
 
 
 
@@ -49,16 +49,15 @@ Masukkan jumlah pairing request yang ingin dikirimkan (1-1000).
 
 ---
 
-Informasi Kontak
+Contact Information
 
-[WhatsApp](https://wa.me/6285183343636) 
+WhatsApp
 
-[Telegram](@DelioGalileio)
+Telegram
 
 Email: support@obscura.web.id
 
-
-> Catatan Penting: Script ini dirancang untuk keperluan edukasi. Penggunaan yang tidak sesuai tanggung jawab sepenuhnya ada pada pengguna.
+> Important Note: This script is designed for educational purposes. Misuse is solely the responsibility of the user.
 
 
 
@@ -66,3 +65,6 @@ Email: support@obscura.web.id
 ---
 
 Happy Pairing!
+
+
+
